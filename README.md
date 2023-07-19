@@ -12,4 +12,4 @@ A game where the player must record a sequence of numbers in hexadecimal, conver
 5. Start the emulation 
 
 <h3>Userful links</h3>
-[OpenAI](https://www.openai.com/)
+
