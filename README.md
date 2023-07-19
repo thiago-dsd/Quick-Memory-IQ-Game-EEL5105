@@ -5,7 +5,7 @@ A game where the player must record a sequence of numbers in hexadecimal, conver
 
 <h3>How to run?</h3>
 
-1. Open the WebUFSC emulator
+1. Open the FPGAEmuWeb emulator
 2. Create a new project
 3. Import repository files
 4. Give "Set top level" in <i>topo.vhd</i> file
@@ -21,3 +21,4 @@ A game where the player must record a sequence of numbers in hexadecimal, conver
 
 + [Datapah and Control Diagram](https://drive.google.com/file/d/1lyDguPamDdVsXc9KEJ2FJ_m77GltYJdO/view?usp=sharing)
 
++ [FPGAEmuWeb](https://moodle.ufsc.br/mod/url/view.php?id=4557739)
