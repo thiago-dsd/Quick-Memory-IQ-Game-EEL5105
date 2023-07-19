@@ -3,7 +3,7 @@
 <h3>What is a Quick-Memory-IQ-Game?</h3>
 A game where the player must record a sequence of numbers in hexadecimal, convert them to decimal, and then correctly select the corresponding switches.
 
-<h3>How to run?</h3>
+<h3>🏃‍♂️How to run?</h3>
 
 1. Open the FPGAEmuWeb emulator
 2. Create a new project
@@ -11,7 +11,7 @@ A game where the player must record a sequence of numbers in hexadecimal, conver
 4. Give "Set top level" in <i>topo.vhd</i> file
 5. Start the emulation 
 
-<h3>Userful links</h3>
+<h3>📋 Userful links</h3>
 
 + [Game Description](https://drive.google.com/file/d/1vykB-f7zW9Db30if1ma5-O2WcKJs-ipc/view?usp=sharing)
 
