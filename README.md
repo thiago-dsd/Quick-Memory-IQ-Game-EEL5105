@@ -1,9 +1,9 @@
 # Quick-Memory-IQ-Game-EEL5105
 
-<h3>What is a Quick-Memory-IQ-Game?</h3>
+<h3>⚡ What is a Quick-Memory-IQ-Game?</h3>
 A game where the player must record a sequence of numbers in hexadecimal, convert them to decimal, and then correctly select the corresponding switches.
 
-<h3>🏃‍♂️How to run?</h3>
+<h3>🏃‍♂️ How to run?</h3>
 
 1. Open the FPGAEmuWeb emulator
 2. Create a new project
